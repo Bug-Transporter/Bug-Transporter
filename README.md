@@ -40,10 +40,10 @@ We chose **Bug Transporters** because it perfectly captures the reality of worki
 ---
 
 ## 📦 Group Projects
-- **(group) Final project:** [Link](https://github.com/yourgroup/final-project)
-- **VO (Visual Odometry):** [Link](https://github.com/yourgroup/vo)
-- **Opensplating:** [Link](https://github.com/yourgroup/opensplating)
-- **U-net:** [Link](https://github.com/yourgroup/u-net)
+- **(group) Final project:** <https://github.com/Friday-1202/Final-project>
+- **VO (Visual Odometry):** <https://github.com/Friday-1202/VO>
+- **Opensplating:** <https://github.com/Friday-1202/Opensplating>
+- **U-net:** <https://github.com/Friday-1202/U-net>
 
 ---
 
