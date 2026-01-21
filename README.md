@@ -35,7 +35,7 @@ We chose **Bug Transporters** because it perfectly captures the reality of worki
 - **Name:** [XIONG Haoran]
 - **Brief Introduction:** Ros, please stop giving errors every day and stop having all kinds of version conflicts....
 - **(individual) Assignment 1:** <https://github.com/githubcapture/XHR-Assignment-1>
-- **(individual) Assignment 2:** [点击查看](https://github.com/yourname/assignment2)
+- **(individual) Assignment 2:** <https://github.com/githubcapture/XHR-Assignment-2>
 
 ---
 
