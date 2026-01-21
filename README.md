@@ -27,8 +27,8 @@ We chose **Bug Transporters** because it perfectly captures the reality of worki
 - **Student ID:** [25047428g]
 - **Name:** [WANG Xiaohan]
 - **Brief Introduction:** Focusing on frontend development and UI/UX design. Brings creative problem-solving skills to ensure our "bugs" at least look good on the screen.
-- **(individual) Assignment 1:** <https://github.com/xiege26/Assignment-1.git>
-- **(individual) Assignment 2:** <https://github.com/xiege26/Assignment-2.git>
+- **(individual) Assignment 1:** <https://github.com/xiege26/Assignment-1>
+- **(individual) Assignment 2:** <https://github.com/xiege26/Assignment-2>
 
 ### 🚚 Member 3 (The Algorithm Guru)
 - **Student ID:** [25049841g]
