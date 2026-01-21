@@ -33,7 +33,7 @@ We chose **Bug Transporters** because it perfectly captures the reality of worki
 ### 🚚 Member 3 (The Algorithm Guru)
 - **Student ID:** [25049841g]
 - **Name:** [XIONG Haoran]
-- **Brief Introduction:** Expertise in data analysis and machine learning. Responsible for algorithm design and optimizing the efficiency of our bug-transporting pipelines.
+- **Brief Introduction:** Ros, please stop giving errors every day and stop having all kinds of version conflicts....
 - **(individual) Assignment 1:** [点击查看](https://github.com/yourname/assignment1)
 - **(individual) Assignment 2:** [点击查看](https://github.com/yourname/assignment2)
 
