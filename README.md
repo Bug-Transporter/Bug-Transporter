@@ -30,7 +30,7 @@ We chose **Bug Transporters** because it perfectly captures the reality of worki
 - **Brief Introduction:** Focusing on frontend development and UI/UX design. Brings creative problem-solving skills to ensure our "bugs" at least look good on the screen.
 - **(individual) Assignment 1:** <https://github.com/xiege26/Assignment-1>
 - **(individual) Assignment 2:** <https://github.com/xiege26/Assignment-2>
-- **(individual) Reflection Report:**
+- **(individual) Reflection Report:**<https://github.com/xiege26/Reflection-Report.git>
 
 ### 🚚 Member 3 (The Algorithm Guru)
 - **Student ID:** [25049841g]
